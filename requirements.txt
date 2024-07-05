@@ -1,5 +1,8 @@
 
-streamlit
+streamlit~=1.36.0
 openai
 python-dotenv
-pandas
+pandas~=2.2.2
+matplotlib.pyplot
+
+matplotlib~=3.9.1
