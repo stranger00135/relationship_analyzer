@@ -3,3 +3,4 @@ openai
 python-dotenv
 pandas~=2.2.2
 matplotlib
+vaderSentiment
